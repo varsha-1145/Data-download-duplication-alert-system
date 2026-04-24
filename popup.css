@@ -1,0 +1,12 @@
+/* popup.css */
+body {
+  font-family: Arial, sans-serif;
+  padding: 10px;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+h2 {
+  color: #007bff;
+  margin-bottom: 10px;
+}
